@@ -75,4 +75,4 @@ git clone (https://github.com/luizaraujo18/sistema-gestao-vendas-sql)
 * **Editor de Código:** pgAdmin
 
 ---
-Feito com 🧠 por [Luiz Carlos](https://github.com/SEU_USUARIO)
+Feito com 🧠 por [Luiz Carlos](https://github.com/luizaraujo18)
