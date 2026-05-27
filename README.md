@@ -16,7 +16,7 @@ Abaixo está a representação visual das tabelas, suas chaves primárias (`PK`)
 
 > 💡 *Dica: Substitua a linha abaixo pelo link da imagem do seu diagrama gerado no dbdiagram.io ou remova esta linha se preferir.*
 
-![Diagrama Entidade-Relacionamento](SEU_LINK_DA_IMAGEM_AQUI.png)
+![Diagrama Entidade-Relacionamento](https://github.com/luizaraujo18/sistema-gestao-vendas-sql/blob/main/06_diagrama_er.png)
 
 ### Regras de Negócio Implementadas:
 * **Clientes:** Cada cliente possui um e-mail único e a data de cadastro é gerada automaticamente.
