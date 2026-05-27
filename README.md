@@ -54,7 +54,7 @@ Se quiser testar o projeto localmente, você precisará do **PostgreSQL** instal
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone (https://github.com/luizaraujo18/sistema-gestao-vendas-sql)
 ```
 
 2. Abra o seu terminal ou ferramenta de preferência (ex: pgAdmin, DBeaver).
