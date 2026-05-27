@@ -14,8 +14,6 @@ O sistema gerencia o fluxo essencial de um comércio eletrônico: cadastro de cl
 
 Abaixo está a representação visual das tabelas, suas chaves primárias (`PK`), chaves estrangeiras (`FK`) e os relacionamentos do sistema (1:N e N:N):
 
-> 💡 *Dica: Substitua a linha abaixo pelo link da imagem do seu diagrama gerado no dbdiagram.io ou remova esta linha se preferir.*
-
 ![Diagrama Entidade-Relacionamento](https://github.com/luizaraujo18/sistema-gestao-vendas-sql/blob/main/06_diagrama_er.png)
 
 ### Regras de Negócio Implementadas:
